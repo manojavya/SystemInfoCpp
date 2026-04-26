@@ -1,0 +1,3 @@
+/home/manojavya/Desktop/Code/c++practice/systeminfoprinter/bin/default/CMakeFiles/SystemInfoPrinter.dir
+/home/manojavya/Desktop/Code/c++practice/systeminfoprinter/bin/default/CMakeFiles/edit_cache.dir
+/home/manojavya/Desktop/Code/c++practice/systeminfoprinter/bin/default/CMakeFiles/rebuild_cache.dir
